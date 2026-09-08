@@ -1,16 +1,57 @@
-## Hi there 👋
+## ⤹ Hi! I'm Katl3y ₊˚ꨄ︎
 
-<!--
-**Katl3y/Katl3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 2nd-year student at VVSU, ITHub
 
-Here are some ideas to get you started:
+- 💻 Web Development student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning JavaScript
+
+- 🎨 Interested in design & digital art
+
+###  ࣪ ₊ ⊹ ˑ ִֶ 𓂃 About Me ₊˚⊹ ᰔ
+**I'm a second-year Web Development student currently exploring Frontend Development.**
+
+**At the moment, I'm focusing on improving my JavaScript skills and building my first web projects.**
+
+  **•┈୨♡୧┈•** 
+
+### 🛠️ Skills
+Programming
+- JavaScript - currently learning
+- C# - basic experience
+- VBA - experience with Excel automation
+
+Web Development
+- HTML - learning
+- CSS - learning
+- JavaScript - learning
+
+Design
+- Figma
+- UI design
+
+Art
+- Digital Art
+- Traditional Art
+
+ **˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗**
+
+### 🎯 My Goals
+- Become a confident Frontend Developer
+- Build a portfolio of real projects
+- Improve my JavaScript skills
+- Improve my UI/UX design skills
+- Combine programming and design in my projects
+
+**໒꒰ྀིっ˕ -｡꒱ྀི১**
+
+### 🚀 Projects
+**I don't have any major projects yet, since I'm still learning. But I'll definitely have them soon!**
+
+**°❀⋆.ೃ࿔*:･**
+
+## 📫 Contact:
+GitHub: @Katl3y
+
+---
+╰┈➤⭐ Thanks for visiting my profile! 𔘓
